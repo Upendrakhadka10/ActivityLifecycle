@@ -1,1 +1,2 @@
 # ActivityLifecycle
+![](Screenshot.gif)
